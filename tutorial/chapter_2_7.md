@@ -3,7 +3,7 @@ Joining lines
 
 Sublime Text makes it conveniently easy for you to join two lines into one.
 
-Join two lines - `Ctrl + J`
+Join two lines - `Ctrl + Shift + J`
 
 
 Exercise
