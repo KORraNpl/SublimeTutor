@@ -41,7 +41,6 @@ Exercise 2
 
 There are six unique lines written below, you need to sort them and make sure
 all their duplicates are deleted. So in the end the remaining list should have
-
 just 6 items. To do this, use `Ctrl + X` to cut a line, including its line
 break, `Ctrl + V` to paste that line back. Once they are sorted, delete the
 lines which are not required using `Ctrl + Shift + K`.
