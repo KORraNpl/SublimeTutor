@@ -53,7 +53,7 @@ Shortcuts you learned in this module
 * Soft redo - `Ctrl + Shift + U`
 * Lower case - `Ctrl + K, Ctrl + L`
 * Upper case - `Ctrl + K, Ctrl + U`
-* Join two lines - `Ctrl + J`
+* Join two lines - `Ctrl + Shift + J`
 * Bubble the line up - `Ctrl + Shift + Up`
 * Bubble the line down - `Ctrl + Shift + Down`
 * Sort lines - `F9`

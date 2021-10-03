@@ -11,7 +11,7 @@ Exercise
 
 You can notice pairs of lines below. Join the pair of lines into one to form
 one long sentence. Put the cursor anywhere on the first line and press
-`Ctrl + J`
+`Ctrl + Shift + J`
 
 ```
 

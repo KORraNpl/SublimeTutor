@@ -18,7 +18,7 @@ Contents
 4.  Delete / Cut a line - `Ctrl + Shift + K` / `Ctrl + X`
 5.  Soft Undo / Redo - `Ctrl + U` / `Ctrl + Shift + U`
 6.  Upper / lower case - `Ctrl + K, Ctrl + U` / `Ctrl + K, Ctrl + L`
-7.  Joining Lines - `Ctrl + J`
+7.  Joining Lines - `Ctrl + Shift + J`
 8.  Bubble the line up / down - `Ctrl + Shift + up` / `Ctrl + Shift + down`
 9.  Sort lines - `F9`
 10. Duplicating a line - `Ctrl + Shift + D`
